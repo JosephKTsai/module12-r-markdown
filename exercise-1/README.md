@@ -8,6 +8,7 @@ As in previous exercises, you should fork and clone this repository, follow the 
 ## Create an R Markdown File
 Start by creating a new R Markdown file in this folder. Save it as **`index.Rmd`** (the traditional name for web files). The title should be the name of a movie.
 
+
 ## Setup
 In the template's `setup` code block, you shuld do the following:
 - Store the name of a (popular) movie in a variable `movie` (alternatively, make this variable a [**param**](http://rmarkdown.rstudio.com/developer_parameterized_reports.html))
